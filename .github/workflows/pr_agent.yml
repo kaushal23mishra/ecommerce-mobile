@@ -1,0 +1,10 @@
+on:
+  pull_request:
+    types: [opened, reopened, ready_for_review, synchronize]
+  issue_comment:
+    types: [created]
+
+jobs:
+  run-central-agent:
+    uses: agbeindia/devops/.github/workflows/reusable-pr-agent.yml@main
+    secrets: inherit

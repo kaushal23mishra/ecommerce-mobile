@@ -1,0 +1,12 @@
+[submodule "libraries/salesdocket_ui_component"]
+	path = libraries/salesdocket_ui_component
+	url = git@github.com:agbeindia/mg-ui-component.git
+[submodule "libraries/salesdocket_core"]
+	path = libraries/salesdocket_core
+	url = git@github.com:agbeindia/mg-core.git
+[submodule "lirariess/salesdocket_core"]
+	path = lirariess/salesdocket_core
+	url = git@github.com:agbeindia/mg-core.git
+[submodule "lirariess/salesdocket_ui_component"]
+	path = lirariess/salesdocket_ui_component
+	url = git@github.com:agbeindia/mg-ui-component.git

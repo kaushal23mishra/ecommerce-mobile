@@ -1,0 +1,9 @@
+export 'address_widget.dart';
+export 'booking_action_widget.dart';
+export 'contact_details_widget.dart';
+export 'date_of_birth_widget.dart';
+export 'details_widget.dart';
+export 'name_widget.dart';
+export 'pan_widget.dart';
+export 'profession_widget.dart';
+export 'type_of_customers_widget.dart';

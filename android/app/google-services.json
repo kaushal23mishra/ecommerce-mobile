@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057458361465",
+    "project_id": "ideal-motors-flutter",
+    "storage_bucket": "ideal-motors-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057458361465:android:e7b13e0e63e2d0d41670a8",
+        "android_client_info": {
+          "package_name": "com.agbe.idealmotors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVkTNnX9AYoheYoEKYJZoNox1HX61E1Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
